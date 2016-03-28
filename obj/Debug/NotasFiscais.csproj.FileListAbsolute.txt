@@ -1,0 +1,9 @@
+D:\Programação\Projetos\NotasFiscais\NotasFiscais\obj\Debug\NotasFiscais.csprojResolveAssemblyReference.cache
+D:\Programação\Projetos\NotasFiscais\NotasFiscais\obj\Debug\NotasFiscais.Form1.resources
+D:\Programação\Projetos\NotasFiscais\NotasFiscais\obj\Debug\NotasFiscais.Properties.Resources.resources
+D:\Programação\Projetos\NotasFiscais\NotasFiscais\obj\Debug\NotasFiscais.csproj.GenerateResource.Cache
+D:\Programação\Projetos\NotasFiscais\NotasFiscais\bin\Debug\NotasFiscais.exe.config
+D:\Programação\Projetos\NotasFiscais\NotasFiscais\bin\Debug\NotasFiscais.exe
+D:\Programação\Projetos\NotasFiscais\NotasFiscais\bin\Debug\NotasFiscais.pdb
+D:\Programação\Projetos\NotasFiscais\NotasFiscais\obj\Debug\NotasFiscais.exe
+D:\Programação\Projetos\NotasFiscais\NotasFiscais\obj\Debug\NotasFiscais.pdb
