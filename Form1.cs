@@ -425,6 +425,10 @@ namespace NotasFiscais
         private void dataGridItens_CellContentClick(object sender, DataGridViewCellEventArgs e)
         {
 
+
+
+
+
         }
     }
 }
